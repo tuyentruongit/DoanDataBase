@@ -12,4 +12,6 @@ https://dev.mysql.com/doc/mysql-windows-excerpt/5.7/en/windows-installation.html
    * docker run --name learn-mysql -e MYSQL_ROOT_PASSWORD=123 -p 8080:3306 -d mysql:latest
    * Sau khi cài đặt, user là root và password là 123
 - Bước 4 : Kết nối MySQl với Docker :
-![Hình ảnh](ManagementCenimaDiagram.drawio.png)
+![Hình ảnh](https://github.com/tuyentruongit/DoanDataBase/blob/main/Conection.png)
+   * Tạo MySQL Connection với user/pass đã tạo khi cài đặt MySQL (root/123
+## Chạy MySQL và tạo Database, Bảng ,  nhập dữ liệu vào trong Bảng 

@@ -15,3 +15,4 @@ https://dev.mysql.com/doc/mysql-windows-excerpt/5.7/en/windows-installation.html
 ![Hình ảnh](https://github.com/tuyentruongit/DoanDataBase/blob/main/Conection.png)
    * Tạo MySQL Connection với user/pass đã tạo khi cài đặt MySQL (root/123
 ## Chạy MySQL và tạo Database, Bảng ,  nhập dữ liệu vào trong Bảng 
+Quy trình Tạo Bảng và Thêm dữ liệu như đường dẫn :  https://github.com/tuyentruongit/DoanDataBase/blob/main/Database-Table.sql

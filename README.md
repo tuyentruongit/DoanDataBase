@@ -11,4 +11,5 @@ https://dev.mysql.com/doc/mysql-windows-excerpt/5.7/en/windows-installation.html
 - Bước 3 : Mở Command Prompt và Cài đặt MySQL trên Docker bằng câu lệnh sau :
    * docker run --name learn-mysql -e MYSQL_ROOT_PASSWORD=123 -p 8080:3306 -d mysql:latest
    * Sau khi cài đặt, user là root và password là 123
-- Bước 4 : Kết nối MySQl với Docker
+- Bước 4 : Kết nối MySQl với Docker :
+- Url : https://github.com/tuyentruongit/DoanDataBase/issues/2#issue-1992580140

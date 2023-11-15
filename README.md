@@ -17,4 +17,5 @@ https://dev.mysql.com/doc/mysql-windows-excerpt/5.7/en/windows-installation.html
 ## Chạy MySQL và tạo Database, Bảng ,  nhập dữ liệu vào trong Bảng 
 Quy trình Tạo Bảng và Thêm dữ liệu như đường dẫn :  https://github.com/tuyentruongit/DoanDataBase/blob/main/Database-Table.sql
 ## Class Diagram :
-![Hình ảnh](https://github.com/tuyentruongit/DoanDataBase/blob/main/Conection.png)
+![Hình ảnh](https://github.com/tuyentruongit/DoanDataBase/blob/main/Class%20Diagram.png)
+

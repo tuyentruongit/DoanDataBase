@@ -19,3 +19,4 @@ Quy trình Tạo Bảng và Thêm dữ liệu như đường dẫn :  https://gi
 ## Biểu Đồ :
 ![Hình ảnh](https://github.com/tuyentruongit/DoanDataBase/blob/main/Class%20Diagram.png)
 ## Tài Liệu Vể Dự Án : 
+https://github.com/tuyentruongit/DoanDataBase/blob/main/T%C3%A0i%20Li%E1%BB%87u%20V%E1%BB%81%20%C4%90%E1%BB%93%20%C3%81n%20Qu%E1%BA%A3n%20L%C3%BD%20Sinh%20Vi%C3%AAn%20DataBase.xlsx
